@@ -1,0 +1,7460 @@
+fileFormatVersion: 2
+guid: 9c5d5ea5b635a774eb354e263d63a0c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -341807287524628208
+    second: alienBeige_climb1.png
+  - first:
+      213: -6378473101835989221
+    second: alienBeige_climb2.png
+  - first:
+      213: 8417670388843056971
+    second: alienBeige_duck.png
+  - first:
+      213: -6436764667942928062
+    second: alienBeige_front.png
+  - first:
+      213: -5746160732311005176
+    second: alienBeige_hit.png
+  - first:
+      213: 3977104306770285739
+    second: alienBeige_jump.png
+  - first:
+      213: -4427441754548813278
+    second: alienBeige_stand.png
+  - first:
+      213: 6816285147299685785
+    second: alienBeige_swim1.png
+  - first:
+      213: 2669046156919990306
+    second: alienBeige_swim2.png
+  - first:
+      213: 7596908494401232921
+    second: alienBeige_walk1.png
+  - first:
+      213: -1804328586961679316
+    second: alienBeige_walk2.png
+  - first:
+      213: -8002799262525007209
+    second: alienBlue_climb1.png
+  - first:
+      213: 7006602923736006555
+    second: alienBlue_climb2.png
+  - first:
+      213: 4432986712905800353
+    second: alienBlue_duck.png
+  - first:
+      213: -5553033624016600944
+    second: alienBlue_front.png
+  - first:
+      213: 6292508931661254221
+    second: alienBlue_hit.png
+  - first:
+      213: -4457904563368169441
+    second: alienBlue_jump.png
+  - first:
+      213: 7240237849634534804
+    second: alienBlue_stand.png
+  - first:
+      213: -2223817353185534793
+    second: alienBlue_swim1.png
+  - first:
+      213: -1767980766960989638
+    second: alienBlue_swim2.png
+  - first:
+      213: -4637215932435482840
+    second: alienBlue_walk1.png
+  - first:
+      213: -2905856628991283079
+    second: alienBlue_walk2.png
+  - first:
+      213: -5361601039435553334
+    second: alienGreen_climb1.png
+  - first:
+      213: -7370557008649897010
+    second: alienGreen_climb2.png
+  - first:
+      213: -2105498975703530907
+    second: alienGreen_duck.png
+  - first:
+      213: 2943954498268190209
+    second: alienGreen_front.png
+  - first:
+      213: 7779910838860108767
+    second: alienGreen_hit.png
+  - first:
+      213: 5853036170646340280
+    second: alienGreen_jump.png
+  - first:
+      213: -404776946568753144
+    second: alienGreen_stand.png
+  - first:
+      213: 4785530607468012596
+    second: alienGreen_swim1.png
+  - first:
+      213: 4016088825755930308
+    second: alienGreen_swim2.png
+  - first:
+      213: 5392407324012612226
+    second: alienGreen_walk1.png
+  - first:
+      213: 2511571442647721048
+    second: alienGreen_walk2.png
+  - first:
+      213: 7097352442055866014
+    second: alienPink_climb1.png
+  - first:
+      213: -7064396393947201717
+    second: alienPink_climb2.png
+  - first:
+      213: -4044142694256695392
+    second: alienPink_duck.png
+  - first:
+      213: 5842431078654474787
+    second: alienPink_front.png
+  - first:
+      213: 8702122057712447943
+    second: alienPink_hit.png
+  - first:
+      213: -9072022433835364090
+    second: alienPink_jump.png
+  - first:
+      213: 75823757650423843
+    second: alienPink_stand.png
+  - first:
+      213: -9088139995939344942
+    second: alienPink_swim1.png
+  - first:
+      213: -8178030324250832186
+    second: alienPink_swim2.png
+  - first:
+      213: 4143797282725683866
+    second: alienPink_walk1.png
+  - first:
+      213: -4675726891315147460
+    second: alienPink_walk2.png
+  - first:
+      213: -379003573977182375
+    second: alienYellow_climb1.png
+  - first:
+      213: -1940113060811456004
+    second: alienYellow_climb2.png
+  - first:
+      213: 1055814680213385580
+    second: alienYellow_duck.png
+  - first:
+      213: -3692657895576485729
+    second: alienYellow_front.png
+  - first:
+      213: -3419743628521293235
+    second: alienYellow_hit.png
+  - first:
+      213: 4926290837033430803
+    second: alienYellow_jump.png
+  - first:
+      213: 2123347365299226353
+    second: alienYellow_stand.png
+  - first:
+      213: 2439881440110993238
+    second: alienYellow_swim1.png
+  - first:
+      213: -200949823441334076
+    second: alienYellow_swim2.png
+  - first:
+      213: -7873879592109384512
+    second: alienYellow_walk1.png
+  - first:
+      213: 7400410943304158326
+    second: alienYellow_walk2.png
+  - first:
+      213: -3697276871838845311
+    second: barnacle.png
+  - first:
+      213: -678275969258254253
+    second: barnacle_attack.png
+  - first:
+      213: -3733535742689908078
+    second: barnacle_dead.png
+  - first:
+      213: -707021751911624613
+    second: bee.png
+  - first:
+      213: 1262590712510692041
+    second: bee_dead.png
+  - first:
+      213: 6042816162868545816
+    second: bee_move.png
+  - first:
+      213: 7119481216759300430
+    second: bomb.png
+  - first:
+      213: 1469153992773747147
+    second: bombWhite.png
+  - first:
+      213: 6085436807976687887
+    second: boxCoin.png
+  - first:
+      213: 1454078882974306804
+    second: boxCoin_boxed.png
+  - first:
+      213: 6345894940943797121
+    second: boxCoin_disabled.png
+  - first:
+      213: 7483595025459342424
+    second: boxCoin_disabled_boxed.png
+  - first:
+      213: 3903051170907115320
+    second: boxCrate.png
+  - first:
+      213: -4226799349474164426
+    second: boxCrate_double.png
+  - first:
+      213: -2896889716215701678
+    second: boxCrate_single.png
+  - first:
+      213: -3324506168673722270
+    second: boxCrate_warning.png
+  - first:
+      213: -6497537638610845458
+    second: boxExplosive.png
+  - first:
+      213: -1900843505015454169
+    second: boxExplosive_disabled.png
+  - first:
+      213: -198400340639200723
+    second: boxExplosive_used.png
+  - first:
+      213: -2711931595005741342
+    second: boxItem.png
+  - first:
+      213: 3596576358280714742
+    second: boxItem_boxed.png
+  - first:
+      213: -390465977774207062
+    second: boxItem_disabled.png
+  - first:
+      213: 4137528129213530327
+    second: boxItem_disabled_boxed.png
+  - first:
+      213: -7961281279150224898
+    second: brickBrown.png
+  - first:
+      213: 5730112574997943930
+    second: brickGrey.png
+  - first:
+      213: 2747227615854919411
+    second: bridgeA.png
+  - first:
+      213: -6106492301704335692
+    second: bridgeB.png
+  - first:
+      213: 6657324537178511095
+    second: bush.png
+  - first:
+      213: -8919097264593601343
+    second: cactus.png
+  - first:
+      213: 6907096132663521016
+    second: chain.png
+  - first:
+      213: -1651969604368043
+    second: coinBronze.png
+  - first:
+      213: -4710956717870437865
+    second: coinGold.png
+  - first:
+      213: -459709786177091673
+    second: coinSilver.png
+  - first:
+      213: 5315189978236590363
+    second: dirt.png
+  - first:
+      213: 638340809758934571
+    second: dirtCenter.png
+  - first:
+      213: -5895658062916534287
+    second: dirtCenter_rounded.png
+  - first:
+      213: -995604944029766020
+    second: dirtCliffAlt_left.png
+  - first:
+      213: 4258616885024851986
+    second: dirtCliffAlt_right.png
+  - first:
+      213: 6340371654301023567
+    second: dirtCliff_left.png
+  - first:
+      213: 1983621653672489459
+    second: dirtCliff_right.png
+  - first:
+      213: -4254984337331105125
+    second: dirtCorner_left.png
+  - first:
+      213: 2674886059508951203
+    second: dirtCorner_right.png
+  - first:
+      213: 5366628528055092411
+    second: dirtHalf.png
+  - first:
+      213: 1801278889474345368
+    second: dirtHalf_left.png
+  - first:
+      213: 1015432943921756013
+    second: dirtHalf_mid.png
+  - first:
+      213: -8037221035427936096
+    second: dirtHalf_right.png
+  - first:
+      213: -3275182823932882001
+    second: dirtHill_left.png
+  - first:
+      213: -7504632729201179999
+    second: dirtHill_right.png
+  - first:
+      213: -8318302198262001937
+    second: dirtLeft.png
+  - first:
+      213: 5887467271768431941
+    second: dirtMid.png
+  - first:
+      213: 3727633471586407703
+    second: dirtRight.png
+  - first:
+      213: 2353743608519232844
+    second: doorClosed_mid.png
+  - first:
+      213: 9185580933603285144
+    second: doorClosed_top.png
+  - first:
+      213: -8818605642316140198
+    second: doorOpen_mid.png
+  - first:
+      213: 3634404741005927027
+    second: doorOpen_top.png
+  - first:
+      213: 2642083241014655598
+    second: fence.png
+  - first:
+      213: 8052407593495593362
+    second: fenceBroken.png
+  - first:
+      213: -4315606193115657422
+    second: fireball.png
+  - first:
+      213: 5683457116038346815
+    second: fishBlue.png
+  - first:
+      213: 2891895604968300871
+    second: fishBlue_dead.png
+  - first:
+      213: -2275007914624724183
+    second: fishBlue_fall.png
+  - first:
+      213: -5806239423414507281
+    second: fishGreen.png
+  - first:
+      213: 4390998245839726028
+    second: fishGreen_dead.png
+  - first:
+      213: -5492815758637823842
+    second: fishGreen_move.png
+  - first:
+      213: -6821685639027694034
+    second: fishPink.png
+  - first:
+      213: -846717794547367027
+    second: fishPink_dead.png
+  - first:
+      213: 4577670427211403054
+    second: fishPink_move.png
+  - first:
+      213: -6548954428504290472
+    second: flagBlue1.png
+  - first:
+      213: -2015010036728967258
+    second: flagBlue2.png
+  - first:
+      213: 814056697233546945
+    second: flagBlue_down.png
+  - first:
+      213: 6200725022879076611
+    second: flagGreen1.png
+  - first:
+      213: -2499835842040122125
+    second: flagGreen2.png
+  - first:
+      213: -4310297800908360396
+    second: flagGreen_down.png
+  - first:
+      213: -4122652141307050078
+    second: flagRed1.png
+  - first:
+      213: 402728195652924934
+    second: flagRed2.png
+  - first:
+      213: -8675635853537139792
+    second: flagRed_down.png
+  - first:
+      213: -1093141130464592981
+    second: flagYellow1.png
+  - first:
+      213: -1254412226569448318
+    second: flagYellow2.png
+  - first:
+      213: -6089082798563992565
+    second: flagYellow_down.png
+  - first:
+      213: -4528635447786380694
+    second: fly.png
+  - first:
+      213: 6421328840041964340
+    second: fly_dead.png
+  - first:
+      213: 3952268923715281078
+    second: fly_move.png
+  - first:
+      213: 2660130619873155582
+    second: frog.png
+  - first:
+      213: 3405805038210944594
+    second: frog_dead.png
+  - first:
+      213: -1370524044558009668
+    second: frog_move.png
+  - first:
+      213: -256801973581565161
+    second: gemBlue.png
+  - first:
+      213: -3802725611822965098
+    second: gemGreen.png
+  - first:
+      213: -6515704572662576388
+    second: gemRed.png
+  - first:
+      213: -3771772365890724818
+    second: gemYellow.png
+  - first:
+      213: -1010530962649890918
+    second: grass.png
+  - first:
+      213: 4378416336485635337
+    second: grassCenter.png
+  - first:
+      213: -6710539610104463447
+    second: grassCenter_round.png
+  - first:
+      213: -7008148055262396581
+    second: grassCliffAlt_left.png
+  - first:
+      213: -7555350151711933986
+    second: grassCliffAlt_right.png
+  - first:
+      213: -6226058485874708445
+    second: grassCliff_left.png
+  - first:
+      213: 3605468750109588876
+    second: grassCliff_right.png
+  - first:
+      213: -234528434576621431
+    second: grassCorner_left.png
+  - first:
+      213: -2589237457329517960
+    second: grassCorner_right.png
+  - first:
+      213: 745051020034411728
+    second: grassHalf.png
+  - first:
+      213: 4779113119855231087
+    second: grassHalf_left.png
+  - first:
+      213: 677098093841110910
+    second: grassHalf_mid.png
+  - first:
+      213: -8076073143588009133
+    second: grassHalf_right.png
+  - first:
+      213: -8840181070398988735
+    second: grassHill_left.png
+  - first:
+      213: 1503903984061866061
+    second: grassHill_right.png
+  - first:
+      213: -8841940012206042853
+    second: grassLeft.png
+  - first:
+      213: 578142255533913989
+    second: grassMid.png
+  - first:
+      213: 7482571501025514076
+    second: grassRight.png
+  - first:
+      213: 3442180555844625638
+    second: hud0.png
+  - first:
+      213: -3989343851591193802
+    second: hud1.png
+  - first:
+      213: 8816143848116642124
+    second: hud2.png
+  - first:
+      213: 4298470148214461531
+    second: hud3.png
+  - first:
+      213: -1792408099232708929
+    second: hud4.png
+  - first:
+      213: -4409386584827830020
+    second: hud5.png
+  - first:
+      213: -6755643954505998457
+    second: hud6.png
+  - first:
+      213: 6393329580641904964
+    second: hud7.png
+  - first:
+      213: 2856937303643237855
+    second: hud8.png
+  - first:
+      213: 5771854494587183643
+    second: hud9.png
+  - first:
+      213: -8099493177708218152
+    second: hudCoin.png
+  - first:
+      213: -2731475510941118794
+    second: hudHeart_empty.png
+  - first:
+      213: -4091865050619651043
+    second: hudHeart_full.png
+  - first:
+      213: 2231131018304229022
+    second: hudHeart_half.png
+  - first:
+      213: 2879682403525563407
+    second: hudJewel_blue.png
+  - first:
+      213: -5977952764724194213
+    second: hudJewel_blue_empty.png
+  - first:
+      213: 1944153924169664109
+    second: hudJewel_green.png
+  - first:
+      213: 8726371120743161557
+    second: hudJewel_green_empty.png
+  - first:
+      213: -6695623882323181833
+    second: hudJewel_red.png
+  - first:
+      213: -2537419809625133918
+    second: hudJewel_red_empty.png
+  - first:
+      213: 9209679370069111106
+    second: hudJewel_yellow.png
+  - first:
+      213: 3712516195375167170
+    second: hudJewel_yellow_empty.png
+  - first:
+      213: -2430740981103343429
+    second: hudKey_blue.png
+  - first:
+      213: -4829635004028460684
+    second: hudKey_blue_empty.png
+  - first:
+      213: -8127648862163211202
+    second: hudKey_green.png
+  - first:
+      213: -6228310718594580816
+    second: hudKey_green_empty.png
+  - first:
+      213: 399111657055610542
+    second: hudKey_red.png
+  - first:
+      213: 4732196505553729975
+    second: hudKey_red_empty.png
+  - first:
+      213: 314622511196739526
+    second: hudKey_yellow.png
+  - first:
+      213: -538732793265113651
+    second: hudKey_yellow_empty.png
+  - first:
+      213: 68429596501044304
+    second: hudPlayer_beige.png
+  - first:
+      213: -5329103220987742783
+    second: hudPlayer_blue.png
+  - first:
+      213: -3736467923788453911
+    second: hudPlayer_green.png
+  - first:
+      213: 2471151216759430504
+    second: hudPlayer_pink.png
+  - first:
+      213: 4687341402629998433
+    second: hudPlayer_yellow.png
+  - first:
+      213: -893014012002318064
+    second: hudX.png
+  - first:
+      213: 1728948745377709852
+    second: keyBlue.png
+  - first:
+      213: -4988880183757767519
+    second: keyGreen.png
+  - first:
+      213: -3795295040037410963
+    second: keyRed.png
+  - first:
+      213: -2763781504305219086
+    second: keyYellow.png
+  - first:
+      213: 4367058358825919506
+    second: ladderMid.png
+  - first:
+      213: 798948132828994316
+    second: ladderTop.png
+  - first:
+      213: 6909334845952843548
+    second: ladybug.png
+  - first:
+      213: -5020265789927303338
+    second: ladybug_fly.png
+  - first:
+      213: 1173147018645608527
+    second: ladybug_move.png
+  - first:
+      213: 4016439774460935773
+    second: lava.png
+  - first:
+      213: -3003915231768414958
+    second: lavaTop_high.png
+  - first:
+      213: -1013342822070252834
+    second: lavaTop_low.png
+  - first:
+      213: 8419131215397275884
+    second: leverLeft.png
+  - first:
+      213: -283229972104756237
+    second: leverMid.png
+  - first:
+      213: 5072870995198205315
+    second: leverRight.png
+  - first:
+      213: -3247154861360029931
+    second: lockBlue.png
+  - first:
+      213: 8176751959697721475
+    second: lockGreen.png
+  - first:
+      213: -6405298968604190920
+    second: lockRed.png
+  - first:
+      213: -6696918260639880116
+    second: lockYellow.png
+  - first:
+      213: 7259958804768897625
+    second: mouse.png
+  - first:
+      213: -5203993329162347949
+    second: mouse_dead.png
+  - first:
+      213: 4005705482512962164
+    second: mouse_move.png
+  - first:
+      213: 8599953219324563264
+    second: mushroomBrown.png
+  - first:
+      213: 220012346323780186
+    second: mushroomRed.png
+  - first:
+      213: 288982366161316305
+    second: planet.png
+  - first:
+      213: -2793636362746662993
+    second: planetCenter.png
+  - first:
+      213: 403940295530339920
+    second: planetCenter_rounded.png
+  - first:
+      213: -8614675243225179024
+    second: planetCliffAlt_left.png
+  - first:
+      213: -7083024931850492900
+    second: planetCliffAlt_right.png
+  - first:
+      213: 1678667424452706909
+    second: planetCliff_left.png
+  - first:
+      213: 6713667961857164546
+    second: planetCliff_right.png
+  - first:
+      213: -5087829953146989002
+    second: planetCorner_left.png
+  - first:
+      213: 7120308605740896527
+    second: planetCorner_right.png
+  - first:
+      213: 7036973714412592973
+    second: planetHalf.png
+  - first:
+      213: 8622036739399171733
+    second: planetHalf_left.png
+  - first:
+      213: -4952706095056941634
+    second: planetHalf_mid.png
+  - first:
+      213: -5078531898117609451
+    second: planetHalf_right.png
+  - first:
+      213: 2775862757004197869
+    second: planetHill_left.png
+  - first:
+      213: 30621371088458997
+    second: planetHill_right.png
+  - first:
+      213: 6542158090060133622
+    second: planetLeft.png
+  - first:
+      213: 9083890693409677887
+    second: planetMid.png
+  - first:
+      213: -5915250080924159281
+    second: planetRight.png
+  - first:
+      213: 8395940530329711870
+    second: plantPurple.png
+  - first:
+      213: 3327736858417002033
+    second: rock.png
+  - first:
+      213: -482986622496041442
+    second: sand.png
+  - first:
+      213: -774737259897537221
+    second: sandCenter.png
+  - first:
+      213: 6444466775196275528
+    second: sandCenter_rounded.png
+  - first:
+      213: 1624252153717332043
+    second: sandCliffAlt_left.png
+  - first:
+      213: -3714836305984452630
+    second: sandCliffAlt_right.png
+  - first:
+      213: -3659718140581436332
+    second: sandCliff_left.png
+  - first:
+      213: -8647267841493518417
+    second: sandCliff_right.png
+  - first:
+      213: 7009295747659376120
+    second: sandCorner_leftg.png
+  - first:
+      213: -7682778655014772114
+    second: sandCorner_right.png
+  - first:
+      213: -3171278134483526656
+    second: sandHalf.png
+  - first:
+      213: 2623334676056650874
+    second: sandHalf_left.png
+  - first:
+      213: -956668812529777843
+    second: sandHalf_mid.png
+  - first:
+      213: -8260175800579592708
+    second: sandHalf_right.png
+  - first:
+      213: 8094762251542479551
+    second: sandHill_left.png
+  - first:
+      213: 5161909086793508504
+    second: sandHill_right.png
+  - first:
+      213: -864146801699178238
+    second: sandLeft.png
+  - first:
+      213: -1633618540952411301
+    second: sandMid.png
+  - first:
+      213: -615764854225492369
+    second: sandRight.png
+  - first:
+      213: -8658573290012483754
+    second: saw.png
+  - first:
+      213: 134686538152775417
+    second: sawHalf.png
+  - first:
+      213: 1071460526754756196
+    second: sawHalf_dead.png
+  - first:
+      213: 6633863743617625561
+    second: sawHalf_move.png
+  - first:
+      213: 1808068301540160222
+    second: saw_dead.png
+  - first:
+      213: -3663483080496917287
+    second: saw_move.png
+  - first:
+      213: 1960552525571891490
+    second: sign.png
+  - first:
+      213: -6869022883972862103
+    second: signExit.png
+  - first:
+      213: -1018877223754140068
+    second: signLeft.png
+  - first:
+      213: -1801341469039721961
+    second: signRight.png
+  - first:
+      213: 9063091832777269722
+    second: slimeBlock.png
+  - first:
+      213: -6463780131909575698
+    second: slimeBlock_dead.png
+  - first:
+      213: 3858524061073253511
+    second: slimeBlock_move.png
+  - first:
+      213: 126254697386640224
+    second: slimeBlue.png
+  - first:
+      213: 5087229621120202458
+    second: slimeBlue_dead.png
+  - first:
+      213: -5859034152522674204
+    second: slimeBlue_hit.png
+  - first:
+      213: 534354079809051213
+    second: slimeBlue_move.png
+  - first:
+      213: -499563797087542866
+    second: slimeGreen.png
+  - first:
+      213: 5522126110524319058
+    second: slimeGreen_dead.png
+  - first:
+      213: 416908553896978983
+    second: slimeGreen_hit.png
+  - first:
+      213: 4097591667925131851
+    second: slimeGreen_move.png
+  - first:
+      213: -3587720615637507744
+    second: slimePurple.png
+  - first:
+      213: 5946669646750058521
+    second: slimePurple_dead.png
+  - first:
+      213: 3656422633588561530
+    second: slimePurple_hit.png
+  - first:
+      213: 3370985877528174844
+    second: slimePurple_move.png
+  - first:
+      213: -367916635276725156
+    second: snail.png
+  - first:
+      213: 3779696022926567503
+    second: snail_move.png
+  - first:
+      213: 3649421340470779701
+    second: snail_shell.png
+  - first:
+      213: 7068861964283946095
+    second: snow.png
+  - first:
+      213: -3340469473118625280
+    second: snowCenter.png
+  - first:
+      213: 4179133265703089923
+    second: snowCenter_rounded.png
+  - first:
+      213: 5960651716601038351
+    second: snowCliffAlt_left.png
+  - first:
+      213: 8297263641707745573
+    second: snowCliffAlt_right.png
+  - first:
+      213: 7687635977840765724
+    second: snowCliff_left.png
+  - first:
+      213: -5796470628257485081
+    second: snowCliff_right.png
+  - first:
+      213: 4275074686883498302
+    second: snowCorner_left.png
+  - first:
+      213: 864641935195030922
+    second: snowCorner_right.png
+  - first:
+      213: 3788338492815666817
+    second: snowHalf.png
+  - first:
+      213: -1884874154526051150
+    second: snowHalf_left.png
+  - first:
+      213: -6700829370571976058
+    second: snowHalf_mid.png
+  - first:
+      213: 9026259711679752968
+    second: snowHalf_right.png
+  - first:
+      213: -5284428194556211554
+    second: snowHill_left.png
+  - first:
+      213: -5554538112409237248
+    second: snowHill_right.png
+  - first:
+      213: -2593638988685488509
+    second: snowLeft.png
+  - first:
+      213: -6323370836865348995
+    second: snowMid.png
+  - first:
+      213: 7715469133742754492
+    second: snowRight.png
+  - first:
+      213: -3926265130303661907
+    second: spikes.png
+  - first:
+      213: 1853569476530769635
+    second: spring.png
+  - first:
+      213: 4078333345783181215
+    second: sprung.png
+  - first:
+      213: 3650903073793279168
+    second: star.png
+  - first:
+      213: 3373817379202472098
+    second: stone.png
+  - first:
+      213: 3248166485796910513
+    second: stoneCenter.png
+  - first:
+      213: 2268894119407454212
+    second: stoneCenter_rounded.png
+  - first:
+      213: -310004467480042563
+    second: stoneCliffAlt_left.png
+  - first:
+      213: 852092194866393690
+    second: stoneCliffAlt_right.png
+  - first:
+      213: 5447269734014758612
+    second: stoneCliff_left.png
+  - first:
+      213: 6164851387402073753
+    second: stoneCliff_right.png
+  - first:
+      213: -8525460723972787424
+    second: stoneCorner_left.png
+  - first:
+      213: 7300277517834813297
+    second: stoneCorner_right.png
+  - first:
+      213: -6187885032379913125
+    second: stoneHalf.png
+  - first:
+      213: -7287491492657699384
+    second: stoneHalf_left.png
+  - first:
+      213: -6756478725560099319
+    second: stoneHalf_mid.png
+  - first:
+      213: 2115615990070709234
+    second: stoneHalf_right.png
+  - first:
+      213: 9016427213297942963
+    second: stoneHill_left.png
+  - first:
+      213: 5671677430241772182
+    second: stoneHill_right.png
+  - first:
+      213: 5963897202198395194
+    second: stoneLeft.png
+  - first:
+      213: 3321320812883518087
+    second: stoneMid.png
+  - first:
+      213: -6131485436672577119
+    second: stoneRight.png
+  - first:
+      213: -6966417014594598725
+    second: switchBlue.png
+  - first:
+      213: 10945451618771696
+    second: switchBlue_pressed.png
+  - first:
+      213: 2626982345829157919
+    second: switchGreen.png
+  - first:
+      213: 7821566563936740661
+    second: switchGreen_pressed.png
+  - first:
+      213: 8281080473654812300
+    second: switchRed.png
+  - first:
+      213: 6658555178891545103
+    second: switchRed_pressed.png
+  - first:
+      213: 1328540473912839027
+    second: switchYellow.png
+  - first:
+      213: 7580667246279629646
+    second: switchYellow_pressed.png
+  - first:
+      213: 1538222258306710758
+    second: torch1.png
+  - first:
+      213: -1321188322814350914
+    second: torch2.png
+  - first:
+      213: 9096160434164993973
+    second: torchOff.png
+  - first:
+      213: 8996579293049106862
+    second: water.png
+  - first:
+      213: -2030314178527717735
+    second: waterTop_high.png
+  - first:
+      213: 2135901457788799672
+    second: waterTop_low.png
+  - first:
+      213: 3170965141710251610
+    second: weight.png
+  - first:
+      213: -7469168417472594328
+    second: weightAttached.png
+  - first:
+      213: -7053716187384276963
+    second: window.png
+  - first:
+      213: 7328073887185657524
+    second: wormGreen.png
+  - first:
+      213: -4226459257782511761
+    second: wormGreen_dead.png
+  - first:
+      213: 3238730598691064419
+    second: wormGreen_move.png
+  - first:
+      213: 3613221788814690034
+    second: wormPink.png
+  - first:
+      213: 2312151494071999395
+    second: wormPink_dead.png
+  - first:
+      213: 6202522613741333039
+    second: wormPink_move.png
+  - first:
+      213: -5681541806102479003
+    second: spritesheet_complete_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barnacle.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18637c92642a0bcc0800000000000000
+      internalID: -3697276871838845311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barnacle_attack.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3509da089974696f0800000000000000
+      internalID: -678275969258254253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barnacle_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6ebce501df2cc0800000000000000
+      internalID: -3733535742689908078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee.png
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5055dc66772036f0800000000000000
+      internalID: -707021751911624613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca38e3409f958110800000000000000
+      internalID: 1262590712510692041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_move.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819c4cea8456cd350800000000000000
+      internalID: 6042816162868545816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41010e227a7dc260800000000000000
+      internalID: 7119481216759300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombWhite.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc140a3c5cb736410800000000000000
+      internalID: 1469153992773747147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCoin.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09998ae880d37450800000000000000
+      internalID: 6085436807976687887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCoin_boxed.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1941f3a0ded2410800000000000000
+      internalID: 1454078882974306804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCoin_disabled.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b47e8a3d5211850800000000000000
+      internalID: 6345894940943797121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCoin_disabled_boxed.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c626f96021bd760800000000000000
+      internalID: 7483595025459342424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCrate.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f47165c5c6a2630800000000000000
+      internalID: 3903051170907115320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCrate_double.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318dbdd2646755c0800000000000000
+      internalID: -4226799349474164426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCrate_single.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f1b77c62e2cc7d0800000000000000
+      internalID: -2896889716215701678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxCrate_warning.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ab9ae04bfcd1d0800000000000000
+      internalID: -3324506168673722270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxExplosive.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0cedf61fb14d5a0800000000000000
+      internalID: -6497537638610845458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxExplosive_disabled.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72602fd37e8de95e0800000000000000
+      internalID: -1900843505015454169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxExplosive_used.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a42ecf0f32f3df0800000000000000
+      internalID: -198400340639200723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxItem.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6368035984d5ad0800000000000000
+      internalID: -2711931595005741342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxItem_boxed.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9d3e2742b99e130800000000000000
+      internalID: 3596576358280714742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxItem_disabled.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf84e11349c49af0800000000000000
+      internalID: -390465977774207062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxItem_disabled_boxed.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d085f579e37b6930800000000000000
+      internalID: 4137528129213530327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brickBrown.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef988477bd8d38190800000000000000
+      internalID: -7961281279150224898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brickBrown.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef988477bd8d38190800000000000000
+      internalID: -7961281279150224898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brickGrey.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7650cb0703758f40800000000000000
+      internalID: 5730112574997943930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brickGrey.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7650cb0703758f40800000000000000
+      internalID: 5730112574997943930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridgeA.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fefc2016fc102620800000000000000
+      internalID: 2747227615854919411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridgeB.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be614dea91614ba0800000000000000
+      internalID: -6106492301704335692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f654010561936c50800000000000000
+      internalID: 6657324537178511095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc7db21b40093480800000000000000
+      internalID: -8919097264593601343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe22e8565feadf50800000000000000
+      internalID: 6907096132663521016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coinBronze.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594d8ada812afff0800000000000000
+      internalID: -1651969604368043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coinGold.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aa71723d15f9eb0800000000000000
+      internalID: -4710956717870437865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coinSilver.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7c4279268ce99f0800000000000000
+      internalID: -459709786177091673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b191286cf1953c940800000000000000
+      internalID: 5315189978236590363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCenter.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26015b9597dbd800800000000000000
+      internalID: 638340809758934571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCenter_rounded.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff31b27a3a6e2ea0800000000000000
+      internalID: -5895658062916534287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCliffAlt_left.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eab7e0496ee22f0800000000000000
+      internalID: -995604944029766020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCliffAlt_right.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218036a6e75a91b30800000000000000
+      internalID: 4258616885024851986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCliff_left.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d71964d668df750800000000000000
+      internalID: 6340371654301023567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCliff_right.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1fbe3626d378b10800000000000000
+      internalID: 1983621653672489459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCorner_left.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9257800a4243f4c0800000000000000
+      internalID: -4254984337331105125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtCorner_right.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ecafe2ba1f1520800000000000000
+      internalID: 2674886059508951203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtHalf.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4833076381a7a40800000000000000
+      internalID: 5366628528055092411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtHalf_left.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899478c3b9d6ff810800000000000000
+      internalID: 1801278889474345368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtHalf_mid.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d677fabe1ea871e00800000000000000
+      internalID: 1015432943921756013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtHalf_right.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a845022d0e067090800000000000000
+      internalID: -8037221035427936096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtHill_left.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3150503963c82d0800000000000000
+      internalID: -3275182823932882001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtHill_right.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a281364b403ad790800000000000000
+      internalID: -7504632729201179999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtLeft.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee0e3219347f8c80800000000000000
+      internalID: -8318302198262001937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtMid.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dde706a4c74b150800000000000000
+      internalID: 5887467271768431941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirtRight.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71593ce74e63bb330800000000000000
+      internalID: 3727633471586407703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorClosed_mid.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d822e575d2aa020800000000000000
+      internalID: 2353743608519232844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorClosed_top.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898560b113db97f70800000000000000
+      internalID: 9185580933603285144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorOpen_mid.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51bd7b24e40e9580800000000000000
+      internalID: -8818605642316140198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorOpen_top.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37267a52bdfff6230800000000000000
+      internalID: 3634404741005927027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af0b795b09aa420800000000000000
+      internalID: 2642083241014655598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceBroken.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29186f4fa06efbf60800000000000000
+      internalID: 8052407593495593362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b8ddc4803eb14c0800000000000000
+      internalID: -4315606193115657422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishBlue.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b1a18222bfde40800000000000000
+      internalID: 5683457116038346815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishBlue_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74126a51bb3122820800000000000000
+      internalID: 2891895604968300871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishBlue_fall.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923579bea5c8d60e0800000000000000
+      internalID: -2275007914624724183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishGreen.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe86286d1081c6fa0800000000000000
+      internalID: -5806239423414507281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishGreen_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5e3acd3a5ffec30800000000000000
+      internalID: 4390998245839726028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishGreen_move.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9889b17b2995c3b0800000000000000
+      internalID: -5492815758637823842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishPink.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26ee5cdd018451a0800000000000000
+      internalID: -6821685639027694034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishPink_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838007e6aadf34f0800000000000000
+      internalID: -846717794547367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishPink_move.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f0fb00007278f30800000000000000
+      internalID: 4577670427211403054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagBlue1.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bc7c625a07d15a0800000000000000
+      internalID: -6548954428504290472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagBlue2.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af4ced2c0f3904e0800000000000000
+      internalID: -2015010036728967258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagBlue_down.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce12a9c04c1c4b00800000000000000
+      internalID: 814056697233546945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagGreen1.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30155923e866d0650800000000000000
+      internalID: 6200725022879076611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagGreen2.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4b86edb8cce4dd0800000000000000
+      internalID: -2499835842040122125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagGreen_down.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b5bcacfebe24c0800000000000000
+      internalID: -4310297800908360396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagRed1.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7c3e068b569c6c0800000000000000
+      internalID: -4122652141307050078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagRed2.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6063de20927c69500800000000000000
+      internalID: 402728195652924934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagRed_down.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3a64d1823f99780800000000000000
+      internalID: -8675635853537139792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagYellow1.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babf94dfee164d0f0800000000000000
+      internalID: -1093141130464592981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagYellow2.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284db61e9be679ee0800000000000000
+      internalID: -1254412226569448318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagYellow_down.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cd6afb47b3f7ba0800000000000000
+      internalID: -6089082798563992565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a626371dd0e0721c0800000000000000
+      internalID: -4528635447786380694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4332ca0fe842d1950800000000000000
+      internalID: 6421328840041964340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_move.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b06dd665a749d630800000000000000
+      internalID: 3952268923715281078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ddad64beaae420800000000000000
+      internalID: 2660130619873155582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8cc433a9d34f20800000000000000
+      internalID: 3405805038210944594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_move.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbafcff84abeafce0800000000000000
+      internalID: -1370524044558009668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemBlue.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7133d0337f7af6cf0800000000000000
+      internalID: -256801973581565161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemGreen.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e130924310a3bc0800000000000000
+      internalID: -3802725611822965098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemRed.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa0f0d76319395a0800000000000000
+      internalID: -6515704572662576388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemYellow.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd2755409f7abc0800000000000000
+      internalID: -3771772365890724818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f38b8817fd9f1f0800000000000000
+      internalID: -1010530962649890918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f38b8817fd9f1f0800000000000000
+      internalID: -1010530962649890918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCenter.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9055efec57243cc30800000000000000
+      internalID: 4378416336485635337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCenter_round.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff88057cf5fd2a0800000000000000
+      internalID: -6710539610104463447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCliffAlt_left.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f7db8797e0ebe90800000000000000
+      internalID: -7008148055262396581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCliffAlt_right.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed934852111062790800000000000000
+      internalID: -7555350151711933986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCliff_left.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b1ae4bc89899a0800000000000000
+      internalID: -6226058485874708445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCliff_right.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dbd03c9b2390230800000000000000
+      internalID: 3605468750109588876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCorner_left.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980055f91a9cebcf0800000000000000
+      internalID: -234528434576621431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassCorner_right.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0dbc304e211cd0800000000000000
+      internalID: -2589237457329517960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassHalf.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc81bc84f3f65a00800000000000000
+      internalID: 745051020034411728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassHalf_left.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60416acf02d25240800000000000000
+      internalID: 4779113119855231087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassHalf_mid.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e775e710129856900800000000000000
+      internalID: 677098093841110910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassHalf_right.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4d58c3460cef80800000000000000
+      internalID: -8076073143588009133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassHill_left.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e5cbc572e515580800000000000000
+      internalID: -8840181070398988735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassHill_right.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406d4a94b0fed410800000000000000
+      internalID: 1503903984061866061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassLeft.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11552fc76e1b4580800000000000000
+      internalID: -8841940012206042853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassMid.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fdba7159f50800800000000000000
+      internalID: 578142255533913989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassRight.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c525615c22f67d760800000000000000
+      internalID: 7482571501025514076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud0.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e420e36af415cf20800000000000000
+      internalID: 3442180555844625638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud1.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ba40747e003a8c0800000000000000
+      internalID: -3989343851591193802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud2.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ecb3be1c395a70800000000000000
+      internalID: 8816143848116642124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud3.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5491f553db37ab30800000000000000
+      internalID: 4298470148214461531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud4.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb683b094561027e0800000000000000
+      internalID: -1792408099232708929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud5.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0e6f55346bec2c0800000000000000
+      internalID: -4409386584827830020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud6.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f97a6cd912f32a0800000000000000
+      internalID: -6755643954505998457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud7.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449682a516ba9b850800000000000000
+      internalID: 6393329580641904964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud8.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda7394751e5a720800000000000000
+      internalID: 2856937303643237855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud9.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b126c1d051fb91050800000000000000
+      internalID: 5771854494587183643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudCoin.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8700a2ed1d89f80800000000000000
+      internalID: -8099493177708218152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudHeart_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be0da9ae79d71ad0800000000000000
+      internalID: -2731475510941118794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudHeart_full.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cdaf48a66c637c0800000000000000
+      internalID: -4091865050619651043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudHeart_half.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e016117d196fe10800000000000000
+      internalID: 2231131018304229022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_blue.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04951883efa6f720800000000000000
+      internalID: 2879682403525563407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_blue_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54dc8e02ab0a0da0800000000000000
+      internalID: -5977952764724194213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_green.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6680d681b50bfa10800000000000000
+      internalID: 1944153924169664109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_green_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de9f1ecc4c4a1970800000000000000
+      internalID: 8726371120743161557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_red.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe3180dd8d5413a0800000000000000
+      internalID: -6695623882323181833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_red_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac2141802649ccd0800000000000000
+      internalID: -2537419809625133918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2417634979a5fcf70800000000000000
+      internalID: 9209679370069111106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudJewel_yellow_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6b8385fc1858330800000000000000
+      internalID: 3712516195375167170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_blue.png
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c950d4f5444ed0800000000000000
+      internalID: -2430740981103343429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_blue_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47167166d80b9fcb0800000000000000
+      internalID: -4829635004028460684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_green.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c67a70c6ac43f80800000000000000
+      internalID: -8127648862163211202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_green_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be796386689099a0800000000000000
+      internalID: -6228310718594580816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_red.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6648000fde98500800000000000000
+      internalID: 399111657055610542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_red_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9ffd846a32ca140800000000000000
+      internalID: 4732196505553729975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7193ac183cd5400800000000000000
+      internalID: 314622511196739526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudKey_yellow_empty.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5349cf0690688f0800000000000000
+      internalID: -538732793265113651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudPlayer_beige.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c619ffa5c13f000800000000000000
+      internalID: 68429596501044304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudPlayer_blue.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5b2a5fad83b06b0800000000000000
+      internalID: -5329103220987742783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudPlayer_green.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a2ff4836652cc0800000000000000
+      internalID: -3736467923788453911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudPlayer_pink.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d583d50fa4b4220800000000000000
+      internalID: 2471151216759430504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudPlayer_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1670ebccb28cc0140800000000000000
+      internalID: 4687341402629998433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hudX.png
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019c72bcc706b93f0800000000000000
+      internalID: -893014012002318064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyBlue.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f781b39b57ef710800000000000000
+      internalID: 1728948745377709852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyGreen.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acf124b7efe3cab0800000000000000
+      internalID: -4988880183757767519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyRed.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67a4c8f447645bc0800000000000000
+      internalID: -3795295040037410963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyYellow.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9b71f6d5315a9d0800000000000000
+      internalID: -2763781504305219086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladderMid.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214283f8078ea9c30800000000000000
+      internalID: 4367058358825919506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladderTop.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bdb33081f661b00800000000000000
+      internalID: 798948132828994316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5f376f63e2ef50800000000000000
+      internalID: 6909334845952843548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_fly.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6575651dcde645ab0800000000000000
+      internalID: -5020265789927303338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_move.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f481ea37ffad74010800000000000000
+      internalID: 1173147018645608527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e7e72e1b24db730800000000000000
+      internalID: 4016439774460935773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaTop_high.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215fe0b1303ff46d0800000000000000
+      internalID: -3003915231768414958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaTop_low.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda8fce7212efe1f0800000000000000
+      internalID: -1013342822070252834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leverLeft.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce84823eb33c6d470800000000000000
+      internalID: 8419131215397275884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leverMid.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3c3fa47d3c11cf0800000000000000
+      internalID: -283229972104756237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leverRight.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ddb2cfa45766640800000000000000
+      internalID: 5072870995198205315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockBlue.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fd3f59bd9cfe2d0800000000000000
+      internalID: -3247154861360029931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockGreen.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3880346c598a97170800000000000000
+      internalID: 8176751959697721475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockRed.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837db28568ecb17a0800000000000000
+      internalID: -6405298968604190920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockYellow.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cabb0e254cf03a0800000000000000
+      internalID: -6696918260639880116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a383a611e80c460800000000000000
+      internalID: 7259958804768897625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a96c993a3b7c7b0800000000000000
+      internalID: -5203993329162347949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_move.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4721508c9ef179730800000000000000
+      internalID: 4005705482512962164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroomBrown.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f41d273eb295770800000000000000
+      internalID: 8599953219324563264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroomRed.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5244d43014ad0300800000000000000
+      internalID: 220012346323780186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planet.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9a5615eeba20400800000000000000
+      internalID: 288982366161316305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCenter.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafeed687820b39d0800000000000000
+      internalID: -2793636362746662993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCenter_rounded.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e5d810f851b9500800000000000000
+      internalID: 403940295530339920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCliffAlt_left.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c16304286827880800000000000000
+      internalID: -8614675243225179024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCliffAlt_right.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14e0d91a5a04bd90800000000000000
+      internalID: -7083024931850492900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCliff_left.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52068ae023db4710800000000000000
+      internalID: 1678667424452706909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCliff_right.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205ca66d07dbb2d50800000000000000
+      internalID: 6713667961857164546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCorner_left.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d4153d956469b0800000000000000
+      internalID: -5087829953146989002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetCorner_right.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01d750b3fa60d260800000000000000
+      internalID: 7120308605740896527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetHalf.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fd25d4f4a58a160800000000000000
+      internalID: 7036973714412592973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetHalf_left.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e3144abb0a7a770800000000000000
+      internalID: 8622036739399171733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetHalf_mid.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd083f0c04744bb0800000000000000
+      internalID: -4952706095056941634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetHalf_right.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a538552e6589b0800000000000000
+      internalID: -5078531898117609451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetHill_left.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defb8786878d58620800000000000000
+      internalID: 2775862757004197869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetHill_right.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4534a89f9cc6000800000000000000
+      internalID: 30621371088458997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetLeft.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f47b7efe1a6aca50800000000000000
+      internalID: 6542158090060133622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetMid.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3229270576701e70800000000000000
+      internalID: 9083890693409677887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetRight.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc23ae8446fc8eda0800000000000000
+      internalID: -5915250080924159281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantPurple.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef47b91cd6f548470800000000000000
+      internalID: 8395940530329711870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1367be7aa0f7e2e20800000000000000
+      internalID: 3327736858417002033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169bdec9361c49f0800000000000000
+      internalID: -482986622496041442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCenter.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d3c8d11949f35f0800000000000000
+      internalID: -774737259897537221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCenter_rounded.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843916643685f6950800000000000000
+      internalID: 6444466775196275528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCliffAlt_left.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b481cf76ab08a8610800000000000000
+      internalID: 1624252153717332043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCliffAlt_right.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7821fcf00427cc0800000000000000
+      internalID: -3714836305984452630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCliff_left.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454279cbdb1163dc0800000000000000
+      internalID: -3659718140581436332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCliff_right.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7be1e96bbbef780800000000000000
+      internalID: -8647267841493518417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCorner_leftg.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5a4ec7855064160800000000000000
+      internalID: 7009295747659376120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandCorner_right.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6224e3b489416590800000000000000
+      internalID: -7682778655014772114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandHalf.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c552eb65b5df3d0800000000000000
+      internalID: -3171278134483526656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandHalf_left.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7432552df4f76420800000000000000
+      internalID: 2623334676056650874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandHalf_mid.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43c77d98ca39b2f0800000000000000
+      internalID: -956668812529777843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandHalf_right.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdec28afd5fd5d80800000000000000
+      internalID: -8260175800579592708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandHill_left.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb24e60416f565070800000000000000
+      internalID: 8094762251542479551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandHill_right.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896203927f8c2a740800000000000000
+      internalID: 5161909086793508504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandLeft.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2093ee2ff0fe104f0800000000000000
+      internalID: -864146801699178238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandMid.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b532a00a7983459e0800000000000000
+      internalID: -1633618540952411301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandRight.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6628b6a02d5477f0800000000000000
+      internalID: -615764854225492369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saw.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fde13c77196d780800000000000000
+      internalID: -8658573290012483754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sawHalf.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe8f9e51b08ed100800000000000000
+      internalID: 134686538152775417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sawHalf_dead.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f1181ca79ede00800000000000000
+      internalID: 1071460526754756196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sawHalf_move.png
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddeba65de7301c50800000000000000
+      internalID: 6633863743617625561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saw_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2f1fa6a8c871910800000000000000
+      internalID: 1808068301540160222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saw_move.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d35a5c81b82dc0800000000000000
+      internalID: -3663483080496917287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sign.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22125327228453b10800000000000000
+      internalID: 1960552525571891490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signExit.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa4c6a4145ca0a0800000000000000
+      internalID: -6869022883972862103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signLeft.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56f56030983cd1f0800000000000000
+      internalID: -1018877223754140068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signRight.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71205b25a795007e0800000000000000
+      internalID: -1801341469039721961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlock.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1ee6be00296cd70800000000000000
+      internalID: 9063091832777269722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlock_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb5d43773a0c46a0800000000000000
+      internalID: -6463780131909575698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlock_move.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784a191b03b3c8530800000000000000
+      internalID: 3858524061073253511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06384f47afb80c100800000000000000
+      internalID: 126254697386640224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f6b91368799640800000000000000
+      internalID: 5087229621120202458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue_hit.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef01041b7780bea0800000000000000
+      internalID: -5859034152522674204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue_move.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a9c4754386a6700800000000000000
+      internalID: 534354079809051213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1a3f39f513119f0800000000000000
+      internalID: -499563797087542866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25526b6a07882ac40800000000000000
+      internalID: 5522126110524319058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen_hit.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ae9d2fe1829c500800000000000000
+      internalID: 416908553896978983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen_move.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42274979e19dd830800000000000000
+      internalID: 4097591667925131851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimePurple.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061a49fcb1bd53ec0800000000000000
+      internalID: -3587720615637507744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimePurple_dead.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91882237980d68250800000000000000
+      internalID: 5946669646750058521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimePurple_hit.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769ebf33093eb230800000000000000
+      internalID: 3656422633588561530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimePurple_move.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0ecec9bc528ce20800000000000000
+      internalID: 3370985877528174844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54bf5ff4c5e4eaf0800000000000000
+      internalID: -367916635276725156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_move.png
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ae75d18d247430800000000000000
+      internalID: 3779696022926567503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_shell.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f9d7aaf5955a230800000000000000
+      internalID: 3649421340470779701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f642a6b0184a91260800000000000000
+      internalID: 7068861964283946095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f642a6b0184a91260800000000000000
+      internalID: 7068861964283946095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCenter.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0026ab776b444a1d0800000000000000
+      internalID: -3340469473118625280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCenter_rounded.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307304b20934ff930800000000000000
+      internalID: 4179133265703089923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCliffAlt_left.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06c3d5c72d78b250800000000000000
+      internalID: 5960651716601038351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCliffAlt_right.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52111c3425dc52370800000000000000
+      internalID: 8297263641707745573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCliff_left.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b26b5e038ffaa60800000000000000
+      internalID: 7687635977840765724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCliff_right.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee2ab3bcacce8fa0800000000000000
+      internalID: -5796470628257485081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCorner_left.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3984f307cd145b30800000000000000
+      internalID: 4275074686883498302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowCorner_right.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c43d4243dffb00800000000000000
+      internalID: 864641935195030922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowHalf.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e6739a9c1e29430800000000000000
+      internalID: 3788338492815666817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowHalf_left.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4f82561f497d5e0800000000000000
+      internalID: -1884874154526051150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowHalf_mid.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6829d82a03fd103a0800000000000000
+      internalID: -6700829370571976058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowHalf_right.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b67157267b34d70800000000000000
+      internalID: 9026259711679752968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowHill_left.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e0b6e1e80f9a6b0800000000000000
+      internalID: -5284428194556211554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowHill_right.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0098a7614015ae2b0800000000000000
+      internalID: -5554538112409237248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowLeft.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e4ccbd41b810cd0800000000000000
+      internalID: -2593638988685488509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowMid.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a839df9bfde38a0800000000000000
+      internalID: -6323370836865348995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowRight.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba4a308c4ad21b60800000000000000
+      internalID: 7715469133742754492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikes.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da85f3e8aaa1389c0800000000000000
+      internalID: -3926265130303661907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee8f174e9339b910800000000000000
+      internalID: 1853569476530769635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprung.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f690fe196299830800000000000000
+      internalID: 4078333345783181215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c484d6900d9aa230800000000000000
+      internalID: 3650903073793279168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a81768f70532de20800000000000000
+      internalID: 3373817379202472098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCenter.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5f045953ec31d20800000000000000
+      internalID: 3248166485796910513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCenter_rounded.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40801443e2bbc7f10800000000000000
+      internalID: 2268894119407454212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCliffAlt_left.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3611d4494a2bbf0800000000000000
+      internalID: -310004467480042563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCliffAlt_right.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52f4ee265d33db00800000000000000
+      internalID: 852092194866393690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCliff_left.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deafa356f6989b40800000000000000
+      internalID: 5447269734014758612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCliff_right.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996bc2f8ca3fd8550800000000000000
+      internalID: 6164851387402073753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCorner_left.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023be0134aa7fa980800000000000000
+      internalID: -8525460723972787424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneCorner_right.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f705459bbcf4560800000000000000
+      internalID: 7300277517834813297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneHalf.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ce90e0957302aa0800000000000000
+      internalID: -6187885032379913125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneHalf_left.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5e4742911adda90800000000000000
+      internalID: -7287491492657699384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneHalf_mid.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e918e756a2c32a0800000000000000
+      internalID: -6756478725560099319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneHalf_right.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0d41b88d2c5d10800000000000000
+      internalID: 2115615990070709234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneHill_left.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b10ac787c8c02d70800000000000000
+      internalID: 9016427213297942963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneHill_right.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692492ea298d5be40800000000000000
+      internalID: 5671677430241772182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneLeft.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a393bf548e404c250800000000000000
+      internalID: 5963897202198395194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneMid.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782a805aea3b71e20800000000000000
+      internalID: 3321320812883518087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneRight.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a176a93b7698eaa0800000000000000
+      internalID: -6131485436672577119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchBlue.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb80ad782a0525f90800000000000000
+      internalID: -6966417014594598725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchBlue_pressed.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a4ab84d2e62000800000000000000
+      internalID: 10945451618771696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchGreen.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c8e52768ae47420800000000000000
+      internalID: 2626982345829157919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchGreen_pressed.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535a5867959cb8c60800000000000000
+      internalID: 7821566563936740661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchRed.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e5e94d0de4ce270800000000000000
+      internalID: 8281080473654812300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchRed_pressed.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0b2b18a0f76c50800000000000000
+      internalID: 6658555178891545103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchYellow.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bcd49a58cef6210800000000000000
+      internalID: 1328540473912839027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switchYellow_pressed.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b9fe642b0f33960800000000000000
+      internalID: 7580667246279629646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch1.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec78fb7efcd85510800000000000000
+      internalID: 1538222258306710758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch2.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a14968323aade0800000000000000
+      internalID: -1321188322814350914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchOff.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf0e5aa8bd0c3e70800000000000000
+      internalID: 9096160434164993973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1b3db73354adc70800000000000000
+      internalID: 8996579293049106862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterTop_high.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9969a6ef200e2d3e0800000000000000
+      internalID: -2030314178527717735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterTop_low.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba8db23f0f34ad10800000000000000
+      internalID: 2135901457788799672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weight.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5629c2fef7810c20800000000000000
+      internalID: 3170965141710251610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weightAttached.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ebafcc5ee285890800000000000000
+      internalID: -7469168417472594328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d189980ff7a2c1e90800000000000000
+      internalID: -7053716187384276963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wormGreen.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be5485ef5c82b560800000000000000
+      internalID: 7328073887185657524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wormGreen_dead.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675632a2b99855c0800000000000000
+      internalID: -4226459257782511761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wormGreen_move.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a4b2ae15842fc20800000000000000
+      internalID: 3238730598691064419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wormPink.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64001c21eb42230800000000000000
+      internalID: 3613221788814690034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wormPink_dead.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abdc079889661020800000000000000
+      internalID: 2312151494071999395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wormPink_move.png
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a216f6479c31650800000000000000
+      internalID: 6202522613741333039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
